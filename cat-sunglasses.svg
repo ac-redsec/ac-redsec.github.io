@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-labelledby="title description">
+  <title id="title">Cat wearing sunglasses</title>
+  <desc id="description">A minimalist silver cat portrait with dark sunglasses.</desc>
+  <path
+    d="M66 79 46 22l59 34c17-8 36-12 55-12s38 4 55 12l59-34-20 57c16 19 25 43 25 70 0 52-45 78-119 78S41 201 41 149c0-27 9-51 25-70Z"
+    fill="#fff"
+  />
+  <path d="m66 75-11-34 36 21c-9 3-17 7-25 13Zm188 0 11-34-36 21c9 3 17 7 25 13Z" fill="#42494f"/>
+  <path d="M45 145c0 52 45 78 115 78s115-26 115-78" fill="none" stroke="#c0c4c8" stroke-width="2"/>
+  <path d="M61 112h78c8 0 14 6 14 14v17c0 12-9 21-21 21H83c-15 0-25-10-25-25v-17c0-6 1-10 3-10Zm120 0h78c2 4 3 8 3 14v13c0 15-10 25-25 25h-49c-12 0-21-9-21-21v-17c0-8 6-14 14-14Z" fill="#000" stroke="#42494f" stroke-width="5"/>
+  <path d="M151 121c5-6 13-6 18 0" fill="none" stroke="#42494f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M72 121h63M185 121h63" stroke="#fff" stroke-opacity=".7" stroke-width="3" stroke-linecap="round"/>
+  <path d="M151 171c6 5 12 5 18 0m-9 1v10m-15 6c9 7 21 7 30 0" fill="none" stroke="#42494f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M120 179c-20-4-38-2-53 4m133-4c20-4 38-2 53 4" fill="none" stroke="#42494f" stroke-width="3" stroke-linecap="round"/>
+</svg>
